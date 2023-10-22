@@ -112,7 +112,7 @@ cokbrut=[]
 pwpluss,pwnya=[],[]
  
  
-#------------[ RIDOY- ]--------------#
+#------------SHAMIM- ]--------------#
  
 P = '\x1b[1;97m'
 M = '\x1b[1;91m'
@@ -269,7 +269,7 @@ def meyexudi():
       print(" \x1b[0m║══[𝟸] YOUR KEY : "+id)
       input(' \033[1;30m╚══[𝟹] IF U WANT TO BUY THEN PRESS ENTER ')
       os.system("python RIDOY-2-0V.py")
-      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801605094328?text='+tks),approval()      
+      tks = ('Hello%20Sir%20!%20Please%20Approve%20My%20Token%20The%20Token%20Is%20:%20'+id);os.system('am start https://wa.me/+8801876582573?text='+tks),approval()      
       time.sleep(1)
       meyexudi()
   except:
